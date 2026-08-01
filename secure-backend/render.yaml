@@ -16,3 +16,5 @@ services:
         value: YourSecretAPIKey456!
       - key: ALLOWED_ORIGINS
         value: https://www.w3schools.com,https://www.w3schools.com/tryit,http://localhost:5500,http://localhost:3000
+      - key: PYTHON_VERSION
+        value: 3.11.0
